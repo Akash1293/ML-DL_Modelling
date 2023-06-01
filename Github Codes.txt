@@ -1,0 +1,9 @@
+1. git init
+2. git add .
+3. git add Fashionista.ipynb
+4. git commit -m "Commit message"
+5. git remote add origin "link of repository" #### 
+6. git push -u origin master
+7. git push -u origin ML-DL_Modelling
+8. git branch -m ML-DL_Modelling
+9. git push -u origin ML-DL_Modelling
